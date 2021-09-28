@@ -1,0 +1,75 @@
+.himg{
+    height: 70px;
+    width: 140px;
+   
+}
+.webBan{
+    height: 446px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.btn{
+    height: 60px;
+    width: 200px;
+    
+}
+.playLogo{
+    color: #FF0000;
+    padding-right: 10px;
+
+}
+.section3rd{
+    margin-top: 100px;
+}
+.txtHdr{
+    color: #313F56;
+}
+.txtSmall{
+    color: #313F56;
+    /* margin-left: 250px;
+    margin-right: 250px; */
+    font-size:medium;
+}
+.cont{
+    margin-top: 100px;
+}
+.logo1{
+    font-size: 40px;
+    transition: 0.2s;
+    color: black;
+    position: relative;
+    overflow: hidden;
+}
+.logo1:hover{
+    font-size: 45px;
+    color: black;
+}
+/* .divTxt{  
+} */
+.title{
+    color: #313F56;
+}
+.section4rd{
+    margin-top: 150px;
+}
+.viewBtn{
+    border: 2px solid #ED1C24;
+    background-color: white;
+    color: #ED1C24;
+    width: 160px;
+    height: 48px;
+    font-size: large;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+.viewBtn:hover{
+    border: 2px solid #ED1C24;
+    background-color: #ED1C24;
+    color: white;
+    width: 160px;
+    height: 48px;
+    font-size: large;
+    border-radius: 5px;
+
+}
